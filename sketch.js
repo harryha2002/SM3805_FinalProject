@@ -307,5 +307,5 @@ function count(grid, i, j) {
 }
 
 function loopingArray(index){
-  return index % (intrumentCount/2);
+  return index % (soundAsset.length);
 }
